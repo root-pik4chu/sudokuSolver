@@ -1,3 +1,3 @@
-# sudokuSolver 😉
-it can solve 9*9 sudoku ... 
-code uses recursion , backtracking topics .... and simple loop nesting..
+1. # sudokuSolver 😉
+2. it can solve 9*9 sudoku ... 
+3. code uses recursion , backtracking topics .... and simple loop nesting..
